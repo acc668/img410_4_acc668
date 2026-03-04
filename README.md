@@ -21,3 +21,7 @@ Example:
 ```
 ./illumination 512 512 test.scene output.ppm
 ```
+
+# Known Issues
+
+None known.
